@@ -1,5 +1,4 @@
 # MERN Stack 30 min challenge
-=============================
 
 This is a MERN full-stack todo list app.
 
